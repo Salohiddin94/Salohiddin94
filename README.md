@@ -26,7 +26,7 @@ Data Science — это быстро развивающаяся область, 
 - 📚 Чтение книги  
 
 ## 🛠 Мой стек
-- **Языки:** Python, SQL  
+- [**Языки:** Python, SQL](https://www.python.org/static/img/python-logo.png)  
 - **Библиотеки:** Pandas, Scikit-Learn, Seaborn, TensorFlow, PyTorch  
 - **Базы данных:** PostgreSQL, MySQL  
 - **Инструменты:** Git  
