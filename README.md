@@ -53,4 +53,4 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kaggle.svg" alt="kaggle" width="40" height="40"/></a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="80" height="40"/></a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="80" height="60"/></a>
