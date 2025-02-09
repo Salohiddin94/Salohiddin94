@@ -53,5 +53,6 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kaggle.svg" alt="kaggle" width="40" height="40"/></a>
-   <a href="https://tableau.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsmemEXLlXKINaiHeaV7z-jKbgNYVmaJ6DEyYsdrphTJQb_lmzi9Y7qXoQM8T1r9vKXQ&usqp=CAU" alt="tableau" width="80" height="80"/></a>
+  <a href="https://tableau.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsmemEXLlXKINaiHeaV7z-jKbgNYVmaJ6DEyYsdrphTJQb_lmzi9Y7qXoQM8T1r9vKXQ&usqp=CAU" alt="tableau" width="100" height="60"/></a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="docker" width="80" height="60"/></a>
   <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="80" height="60"/></a>
